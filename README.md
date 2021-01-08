@@ -6,7 +6,7 @@
 
 ## Data Model
 
-![Data Model](pics/data-model_v01.jpg)
+![Data Model](pics/data-model_v02.jpg)
 
 ## Components
 
