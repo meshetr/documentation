@@ -13,7 +13,7 @@
 ### Meshetr Web Interface
 > web-interface
 
-[https://meshetr.github.io/](https://meshetr.github.io/index.html)
+[https://meshetr.github.io/](http://34.120.16.63/catalogue/api/swagger-ui/index.html)
 
 ### Ad Catalogue API
 > ad-catalogue
